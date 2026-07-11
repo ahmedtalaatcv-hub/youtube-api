@@ -66,7 +66,7 @@ app.listen(PORT, () => {
 
     console.log("================================");
     console.log("YouTube API Running");
-    console.log("http://localhost:3000");
+    console.log("Running on port " + PORT);
     console.log("================================");
 
 });
